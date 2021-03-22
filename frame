@@ -8,3 +8,20 @@
 <body>
 </body>
 </html>
+
+
+
+<!doctype html> <!--  advTable.html  -->
+<html lang="ko">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <style> table, tr, th, td{
+    border: 1px solid black;  border-collapse: collapse;
+    }
+  </style>  <!--  border-collapse: collapse 단선으로, 반대는 separate  -->
+  <title>리스트 예제</title>
+</head>
+<body>
+</body>
+</html>
