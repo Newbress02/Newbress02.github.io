@@ -11,7 +11,7 @@
 <section>
   <h2>JSP form</h2>
   <section>
-    <h2>로</h2><br.>
+    <h2>로</h2><br/>
     <h2><%= request.getParameter("fromx")%>에서 <%= request.getParameter("tox")%><br/></h2>
   </section>
 </section>
