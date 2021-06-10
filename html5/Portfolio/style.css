@@ -6,7 +6,7 @@
 .menu li:hover { background-color:rgb(132, 188, 226); } 
 .banner li { border: 2px solid black; padding:10px; margin-bottom: 10px; }
 .banner li img { width:30%; vertical-align:middle; }
-.header {background color:#ff9400}
+.header {background color:#ff9400;}
 /* for mobile */
 [class*="col-"]  { width:100%;}
 @media only screen and (min-width: 600px) {  /* For tablets: */
