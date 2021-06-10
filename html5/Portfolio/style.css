@@ -7,7 +7,7 @@
 .banner li { border: 2px solid black; padding:10px; margin-bottom: 10px; }
 .banner li img { width:30%; vertical-align:middle; }
 .header {background-color:#d58adb;}
-footer {background-color:gray;}
+.footer {background-color:gray;}
 /* for mobile */
 [class*="col-"]  { width:100%;}
 @media only screen and (min-width: 600px) {  /* For tablets: */
@@ -28,7 +28,7 @@ footer {background-color:gray;}
   border: 0px;
   text-align:left;   
 }
-footer
+.footer
 {
   height: 100px;
   margin: 0 auto;
