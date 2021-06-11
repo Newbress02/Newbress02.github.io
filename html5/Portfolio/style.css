@@ -25,6 +25,5 @@ ul li ol li{display:block;}
 .col-9 { width:75%; }    .col-10 { width:83.33%; }    .col-11 { width:91.66%; }    .col-12 { width:100%; } }
 
 a:hover{ color:red; text-decoration:none;}
-a:link{ color:white; text-decoration:none;}
 hr.wd {width:300px;}
 
