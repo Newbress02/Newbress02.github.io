@@ -8,11 +8,9 @@
 .banner li img { width:30%; vertical-align:middle; }
 .header {background-color:#d58adb;font-family: 'Lobster'; height: 100px;
         margin:0px; border: 0px; text-align:left}
-.footer {background-color:gray; height: 100px;
-        margin: 0 auto; text-align: left;}
+.footer {background-color:#d1cfcd; position: absolute; left: 0; bottom: 0; width: 100%;
+        padding: 15px 0; text-align: center;}
 nav ul li {display:inline;}
-
-
 
 
 /* for mobile */
