@@ -11,7 +11,7 @@
 .footer {background-color:#d1cfcd; position: absolute; height:100px; bottom: 0; width: 100%;
         padding: 15px 0; text-align: center;}
 nav ul li {display:inline;}
-
+ul li ol li{display:block;}
 
 /* for mobile */
 [class*="col-"]  { width:100%;}
