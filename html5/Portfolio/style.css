@@ -11,6 +11,7 @@
 .footer {text-align: center;}
 nav ul li {display:inline;}
 ul li ol li{display:block;}
+ul{list-style-type:circle; }
 
 /* for mobile */
 [class*="col-"]  { width:100%;}
