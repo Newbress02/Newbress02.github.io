@@ -29,3 +29,5 @@ hr.wd {width:300px;}
 
 .divCenter { width: 50%; float: left; text-align: center; margin: 0 auto;}
 
+@font-face { font-family: 'Binggrae-Bold'; src: url('Binggrae-Bold.ttf') format('truetype'); }
+body { font-family: 'Binggrae-Bold'; }
