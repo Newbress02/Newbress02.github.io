@@ -27,4 +27,5 @@ ol li a:visited{color:black; text-decoration:none;}
 ol li a:hover{color:red; text-decoration:none;}
 hr.wd {width:300px;}
 
+.divCenter { width: 50%; float: left; text-align: center; margin: 0 auto;}
 
