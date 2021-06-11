@@ -6,7 +6,7 @@
 nav ul {padding:0; margin:0;}
 nav ul li {display:inline; margin:20px;}
 ul li ol li{display:block;}
-ul ol li{list-style-type:circle; }
+
 
 /* for mobile */
 [class*="col-"]  { width:100%;}
@@ -27,7 +27,7 @@ ol li a:visited{color:black; text-decoration:none;}
 ol li a:hover{color:red; text-decoration:none;}
 hr.wd {width:300px;}
 
-.Center { width: 100%; float: left; text-align: center; margin: 0 auto;}
+.Center { width: 70%; float: left; text-align: center; margin: 0 auto;}
 
 @font-face { font-family: 'Binggrae-Bold'; src: url('Binggrae-Bold.ttf') format('truetype'); }
 body { font-family: 'Binggrae-Bold'; }
