@@ -12,7 +12,7 @@
 nav ul {padding:0; margin:0;}
 nav ul li {display:inline;}
 ul li ol li{display:block;}
-ul{list-style-type:circle; }
+ul ol li{list-style-type:circle; }
 
 /* for mobile */
 [class*="col-"]  { width:100%;}
