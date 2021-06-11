@@ -9,6 +9,7 @@
 .header {background-color:#d58adb;font-family: 'Lobster'; height: 100px;
         margin:0px; border: 0px; text-align:left}
 .footer {text-align: center;}
+nav ul {padding:0; margin:0;}
 nav ul li {display:inline;}
 ul li ol li{display:block;}
 ul{list-style-type:circle; }
