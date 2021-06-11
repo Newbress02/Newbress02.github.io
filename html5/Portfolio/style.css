@@ -27,7 +27,8 @@ ol li a:visited{color:black; text-decoration:none;}
 ol li a:hover{color:red; text-decoration:none;}
 hr.wd {width:300px;}
 
-.Center { width: 70%; float: left; text-align: center; margin: 0 auto;}
+.Center { width: 100%; float: left; text-align: center; margin: 0 auto;}
+.Left { width: 70%; float: left; text-align: left; margin: 0 auto;}
 
 @font-face { font-family: 'Binggrae-Bold'; src: url('Binggrae-Bold.ttf') format('truetype'); }
 body { font-family: 'Binggrae-Bold'; }
